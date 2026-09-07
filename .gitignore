@@ -1,0 +1,26 @@
+# Qt CMake build 构建目录
+build-*/
+cmake-build-*/
+
+# Qt自动生成文件
+*.user
+*.user.*
+*.pro.user
+
+# 编译产物二进制
+*.o
+*.exe
+*.out
+chart_server_new
+
+# 日志
+*.log
+nohup.out
+
+# VSCode
+.vscode/
+*.swp
+*.swo
+
+# Windows
+Thumbs.db
