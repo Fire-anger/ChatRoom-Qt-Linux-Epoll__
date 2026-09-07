@@ -123,5 +123,4 @@ ss -tulnp | grep 6666
 3. 链表管理在线客户端
 4. TCP 粘包半包，使用换行作为报文分隔符，自定义缓冲区解析报文
 5. Qt6 QTcpSocket 异步网络编程
-6. Qt6 CMake 项目迁移，Qt5→Qt6 API 适配（`errorOccurred`、`Qt::SplitBehavior`等）
 
